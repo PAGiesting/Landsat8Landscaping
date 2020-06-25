@@ -1,6 +1,6 @@
 Use Landsat 8 data to test dimensionality reduction, clustering, and eventually clustering algorithms.
 
-Note that source files are not currently housed here due to size. They can be found in the project's OneDrive folder [here]: https://1drv.ms/u/s!ApknW2-syaCYg4VIVh-HrXRhUB2RbA?e=i5MV9G	"PAG Metis capstone project folder".
+Note that source files are not currently housed here due to size. They can be found in the project's OneDrive folder: https://1drv.ms/u/s!ApknW2-syaCYg4VIVh-HrXRhUB2RbA?e=i5MV9G.
 
 Done during Metis:
 * Wrangle geospatial data using GDAL and GRASS.
